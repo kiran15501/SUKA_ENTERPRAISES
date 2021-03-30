@@ -1,39 +1,13 @@
-.logo_image{
-    height: 170px;
-    width: auto;
-}
+
 img{
     height: 125px;
     width: auto;
-    position:absolute; left:80px;
-}
-h2{
-    position:absolute; left:220px;
-    color: green;
     
 }
-#enter{
-    position:absolute; left:220px;top:28px;
-    color:darkblue ;
-}
-#so{
-    position:absolute; left:220px;top:70px;
-    color: red;
-}
-#aut{
-    position:absolute; left:220px;top:90px;
-    color:red;
-}
-#address{
-    position:absolute; left:220px;top:107px;
-    color: black;
-}
-.comen_logo{
-    height: 170px;
-    width: auto;
-    position:absolute; left:1200px;
-}
-.container-fluid{
-    position:absolute; left:80px;
+
+
+
+#title{
+    background-color:white;
 }
 
